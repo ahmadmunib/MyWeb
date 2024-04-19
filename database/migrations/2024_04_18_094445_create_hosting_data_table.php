@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('hosting_data', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('w_id');
-            $table->foreign('w_id')->references('id')->on('website')->onDelete('cascade');
+            $table->foreign('w_id')->references('id')->on('websites')->onDelete('cascade');
             $table->string('host_type');
             $table->timestamps();
             $table->softDeletes();
