@@ -16,6 +16,8 @@ return new class extends Migration
             $table->string('name');
             $table->string('domain');
             $table->string('ip_address');
+            $table->string('url');
+            $table->string('hosting');
             $table->unsignedBigInteger('cid');
             $table->foreign('cid')->references('id')->on('clients')->onDelete('cascade');
             $table->timestamps();
