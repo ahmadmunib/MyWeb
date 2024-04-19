@@ -11,15 +11,15 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('widget_data', function (Blueprint $table) {
+        Schema::create('client_widget_data', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->longText('value');
-            $table->string('type');
+            $table->unsignedBigInteger('client_id');
+            $table->foreign('client_id')->references('id')->on('clients')->onDelete('cascade');
             $table->unsignedBigInteger('widget_id');
             $table->foreign('widget_id')->references('id')->on('widgets')->onDelete('cascade');
-            $table->integer('sort');
+            $table->longText('value');
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 
@@ -28,6 +28,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('widget_data');
+        Schema::dropIfExists('client_widget_data');
     }
 };
