@@ -13,8 +13,15 @@ return new class extends Migration
     {
         Schema::create('themes', function (Blueprint $table) {
             $table->id();
-            $table->string('title');
-            $table->string('description');
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->string('version')->nullable();
+            $table->string('license')->nullable();
+            $table->string('type');
+            $table->string('tags')->nullable();
+            $table->string('preview')->nullable();
+            $table->string('thumbnail')->nullable();
+            $table->string('screenshot')->nullable();
             $table->timestamps();
             $table->softDeletes();
         });
