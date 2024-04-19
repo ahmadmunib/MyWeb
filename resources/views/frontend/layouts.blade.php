@@ -151,9 +151,9 @@
                     <div class="header-element">
                         <div class="horizontal-logo">
                             <a href="index.html" class="header-logo">
-                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="logo" class="toggle-logo">
-                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="logo" class="toggle-white">
-                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="logo" class="toggle-dark">
+                                <img src="{{ asset('themes/shash_b5/assets/images/brand-logos/toggle-logo.png') }}" alt="logo" class="toggle-logo">
+                                <img src="{{ asset('themes/shash_b5/assets/images/brand-logos/toggle-white.png') }}" alt="logo" class="toggle-white">
+                                <img src="{{ asset('themes/shash_b5/assets/images/brand-logos/toggle-dark.png') }}" alt="logo" class="toggle-dark">
                             </a>
                         </div>
                     </div>
@@ -359,7 +359,7 @@
                                 </a>
                             </div>
                             <div class="col-xl-6 col-lg-6 my-auto text-end">
-                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="" class="w-100">
+                                <img src="{{ asset('themes/shash_b5/assets/images/landing/2.png') }}" alt="" class="w-100">
                             </div>
                             </div>
                         </div>
@@ -378,7 +378,7 @@
                 <div class="row justify-content-center align-items-center g-0">
                     <div class="col-xxl-5 col-xl-5 col-lg-5 customize-image text-center">
                         <div class="text-lg-end">
-                            <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="" class="img-fluid">
+                            <img src="{{ asset('themes/shash_b5/assets/images/landing/1.png') }}" alt="" class="img-fluid">
                         </div>
                         </div>
                     </div>
@@ -708,7 +708,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/15.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Json Taylor</p>
@@ -742,7 +742,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/4.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Melissa Blue</p>
@@ -776,7 +776,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/2.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Kiara Advain</p>
@@ -810,7 +810,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/10.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Jhonson Smith</p>
@@ -844,7 +844,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/12.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Dwayne Stort</p>
@@ -878,7 +878,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/3.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Jasmine Kova</p>
@@ -912,7 +912,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/16.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Dolph MR</p>
@@ -946,7 +946,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/5.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Brenda Simpson</p>
@@ -980,7 +980,7 @@
                                     <div class="card-body">
                                         <div class="d-flex align-items-center mb-3">
                                             <span class="avatar avatar-md avatar-rounded me-3">
-                                                <img src="{{ asset('themes/shash_b5'.'CURRENT_SOURCE') }}" alt="">
+                                                <img src="{{ asset('themes/shash_b5/assets/images/faces/7.jpg') }}" alt="">
                                             </span>
                                             <div>
                                                 <p class="mb-0 fw-semibold fs-14">Julia Sams</p>
@@ -1833,8 +1833,8 @@
                         </div>
                         <div class="col-xl-4">
                             <div class="px-4">
-                                <a href="index.html"><img loading="lazy" alt="" class="logo-2 mb-3" src="{{ asset('themes/shash_b5/CURRENT/assets/images/brand-logos/desktop-logo.png') }}"></a>
-                                <a href="index.html"><img src="{{ asset('themes/shash_b5/CURRENT/assets/images/brand-logos/desktop-white.png') }}" class="logo-3 mb-3" alt="logo"></a>
+                                <a href="index.html"><img loading="lazy" alt="" class="logo-2 mb-3" src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-logo.png') }}"></a>
+                                <a href="index.html"><img src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-white.png') }}" class="logo-3 mb-3" alt="logo"></a>
                                 <p class="text-muted">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excepteur sint occaecat.</p>
                                 <div class="form-group">
                                     <div class="input-group">
