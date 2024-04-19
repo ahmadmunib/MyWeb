@@ -18,3 +18,11 @@ Route::get('/sendEmailTest', function () {
 
     Mail::to('ahmedmunib85@gmail.com')->send(new \App\Mail\TestMail($details));
 });
+
+Route::get('cp/home', function () {
+    return view('backend.layouts');
+});
+
+Route::get('home', function () {
+    return view('frontend.layouts');
+});
