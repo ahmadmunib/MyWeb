@@ -211,8 +211,8 @@
                         <div class="landing-logo-container">
                             <div class="horizontal-logo">
                                 <a href="index.html" class="header-logo">
-                                    <img src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-logo.png') }}" alt="logo" class="desktop-logo">
-                                    <img src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-white.png') }}" alt="logo" class="desktop-white">
+                                    <img src="{{ asset('images/svg/logo-no-background.svg') }}" alt="logo" class="desktop-logo">
+                                    <img src="{{ asset('images/png/logo-white.png') }}" alt="logo" class="desktop-white">
                                 </a>
                             </div>
                         </div>
@@ -378,41 +378,41 @@
                             <img src="{{ asset('themes/shash_b5/assets/images/landing/1.png') }}" alt="" class="img-fluid">
                         </div>
                     </div>
-                </div>
-                <div class="col-xxl-5 col-xl-5 col-lg-5 my-auto text-start pt-5 pb-0 px-lg-2 px-5">
-                    <h5 class="text-lg-start fw-semibold mb-0">Present your awesome product</h5>
-                    <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
-                    <div class="row">
-                        <div class="col-12 col-md-12">
-                            <div class="d-flex">
-                                <span>
-                                    <i class="bx bxs-badge-check text-primary fs-18"></i>
-                                </span>
-                                <div class="ms-2">
-                                    <h6 class="fw-semibold mb-0">Can Switch Easily From Vertical to HorizontalMenu.</h6>
-                                    <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                    <div class="col-xxl-5 col-xl-5 col-lg-5 my-auto text-start pt-5 pb-0 px-lg-2 px-5">
+                        <h5 class="text-lg-start fw-semibold mb-0">Present your awesome product</h5>
+                        <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                        <div class="row">
+                            <div class="col-12 col-md-12">
+                                <div class="d-flex">
+                                    <span>
+                                        <i class="bx bxs-badge-check text-primary fs-18"></i>
+                                    </span>
+                                    <div class="ms-2">
+                                        <h6 class="fw-semibold mb-0">Can Switch Easily From Vertical to HorizontalMenu.</h6>
+                                        <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-12 col-md-12">
-                            <div class="d-flex">
-                                <span>
-                                    <i class="bx bxs-badge-check text-primary fs-18"></i>
-                                </span>
-                                <div class="ms-2">
-                                    <h6 class="fw-semibold mb-0">Switch Easily From One Color to Another Color style</h6>
-                                    <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                            <div class="col-12 col-md-12">
+                                <div class="d-flex">
+                                    <span>
+                                        <i class="bx bxs-badge-check text-primary fs-18"></i>
+                                    </span>
+                                    <div class="ms-2">
+                                        <h6 class="fw-semibold mb-0">Switch Easily From One Color to Another Color style</h6>
+                                        <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-12 col-md-12">
-                            <div class="d-flex">
-                                <span>
-                                    <i class="bx bxs-badge-check text-primary fs-18"></i>
-                                </span>
-                                <div class="ms-2">
-                                    <h6 class="fw-semibold mb-0">Switch Easily From Fixed to Scrollable Layout.</h6>
-                                    <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                            <div class="col-12 col-md-12">
+                                <div class="d-flex">
+                                    <span>
+                                        <i class="bx bxs-badge-check text-primary fs-18"></i>
+                                    </span>
+                                    <div class="ms-2">
+                                        <h6 class="fw-semibold mb-0">Switch Easily From Fixed to Scrollable Layout.</h6>
+                                        <p class=" text-muted">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>

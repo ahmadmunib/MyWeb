@@ -66,8 +66,8 @@
             </div>
             <div class="col-xl-4">
                 <div class="px-4">
-                    <a href="index.html"><img loading="lazy" alt="" class="logo-2 mb-3" src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-logo.png') }}"></a>
-                    <a href="index.html"><img src="{{ asset('themes/shash_b5/assets/images/brand-logos/desktop-white.png') }}" class="logo-3 mb-3" alt="logo"></a>
+                    <a href="index.html"><img style="width: 100%" loading="lazy" alt="" class="logo-2 mb-3" src="{{ asset('images/svg/logo-no-background.svg') }}"></a>
+                    <a href="index.html"><img style="width: 100%" src="{{ asset('images/png/logo-white.png') }}" class="logo-3 mb-3" alt="logo"></a>
                     <p class="text-muted">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excepteur sint occaecat.</p>
                     <div class="form-group">
                         <div class="input-group">
